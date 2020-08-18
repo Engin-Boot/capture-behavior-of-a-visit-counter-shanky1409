@@ -10,7 +10,7 @@
 
 ## Scenario: Compute parking slots to reserve for visiting specialists
 
-  Given the number of specialist is visiting the hospital on a day
+  Given the number of specialist visiting the hospital on a day
 
   When the specialist arrives hospital
 

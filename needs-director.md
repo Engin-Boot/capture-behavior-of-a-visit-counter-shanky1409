@@ -14,4 +14,4 @@
 
   When the specialist arrives hospital
 
-  Then the total designated parking should be available 
+  Then the total designated parking should be available
